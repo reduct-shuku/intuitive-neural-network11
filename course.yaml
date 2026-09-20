@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "course_id": "course-0780d626-b2c",
+  "type": "official",
+  "title": "intuitive-neural-network11",
+  "description": "测试",
+  "lesson": "认识输入、权重与输出",
+  "theme": "neural",
+  "build_profile": "static",
+  "entry": "index.html"
+}
