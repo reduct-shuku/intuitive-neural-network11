@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "course_id": "course-0780d626-b2c",
+  "type": "official",
+  "title": "intuitive-neural-network11",
+  "description": "测试",
+  "lesson": "认识输入、权重与输出",
+  "theme": "neural",
+  "build_profile": "static",
+  "entry": "index.html",
+  "name": "intuitive-neural-network11",
+  "version": "1.0.1",
+  "repository": "https://github.com/reduct-shuku/intuitive-neural-network11",
+  "ref": "main",
+  "path": ".",
+  "contributing": "CONTRIBUTING.md",
+  "changes": [
+    "统一为 Shuku 标准仓库格式，保留原课程内容和平台身份"
+  ]
+}
